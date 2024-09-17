@@ -1,30 +1,55 @@
+<!--
 
+author:   Britta Petersen, Linda Zollitsch
+email:    b.petersen@rz.uni-kiel.de
+version:  0.0.1
+language: de
+narrator: Deutsch Female
+title: Train-the-Trainer zum Forschungsdatenmanagement  
+
+comment: 
+
+licence: cc-by
+
+
+logo: images/DINInestor-logo.png
+
+
+@style
+
+.lia-slide__container {
+    background-image: url("https://raw.githubusercontent.com/RDM4CAU/TtT-FDM/main/images/DINInestor-logo.png");
+    background-size: 15%;
+    background-repeat: no-repeat;
+    background-position: right top;
+    opacity: 1;
+}
+
+@end
+
+-->
 
 ## Digitale Forschungsdaten
 
+![](Images/HandsOn.png)<!-- align=right -->
 
+Was sind Forschungsdaten? So viele Beispiele wie möglich!
+---
 
-**Aufgabe:** 
-
-mit welchen Forschungsdaten Arbeitest du? 
-
-- Schreibe dir deine Überlegungen als Stichpunkte auf
-
-
-
-{{1}}
-********
-
-![alt](Lia_TtT_Kapitel4\Gafiken\Forschungsdaten_01-06.PNG "")
-
-******
+![Bild](images/Forschungsdaten_01-06.PNG)
 
 #### Was sind Digitale Forschungsdaten?
 
-- Keine feste Definition von Forschungsdaten
-- Allgemein:
+>- Keine feste Definition von Forschungsdaten
+>- Allgemein:
+>
+>    > „alle (digitalen) Daten, die während des Forschungsprozesses 	entstehen, gesammelt, oder verarbeitet werden sowie deren 	Ergebnisse sind“^1,2^
 
-> „alle (digitalen) Daten, die während des Forschungsprozesses 	entstehen, gesammelt, oder verarbeitet werden sowie deren 	Ergebnisse sind“ 	
+
+><small> ^1^ Kindling, M.; Schirmbacher, P.: „Die digitale Forschungswelt" als Gegenstand der Forschung.      Information - Wissenschaft & Praxis 64 (2013), S. 130. https://doi.org/10.1515/iwp-2013-0017 </small>
+><br>
+><small>^2^DARIAH-DE. „Digitale Forschungsinfrastruktur für die Geistes- und Kulturwissenschaften.“       Zugriff am 08.11.2023, https://de.dariah.eu </small>
+
 
 ### Was passiert mit Daten?
 

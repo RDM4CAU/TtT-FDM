@@ -42,6 +42,20 @@ https://creativecommons.org/publicdomain/zero/1.0/deed.de </small>
 ><small>^2^DARIAH-DE. „Digitale Forschungsinfrastruktur für die Geistes- und Kulturwissenschaften.“ Zugriff am 08.11.2023, https://de.dariah.eu </small>
 
 
+### Kurzer Selbsttest
+
+>**Welche der folgenden Items zählen zu (digitalen) Forschungsdaten?**
+>(Mehrfachauswahl möglich)
+>
+>[[X]] Daten, die ich selbst erhoben haben
+>[[X]] Messdaten
+>[[X]] geografische Koordinaten
+>[[X]] Software 
+>[[X]] Simulationen 
+>[[X]] Texte
+>[[X]] Fotos von einem Grabungsschnitt 
+
+
 ## Was passiert mit Daten?
 
 ![](Images/HandsOn.png)<!-- align=right -->

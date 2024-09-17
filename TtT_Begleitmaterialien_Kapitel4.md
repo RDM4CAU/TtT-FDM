@@ -12,7 +12,7 @@ comment:
 licence: cc-by
 
 
-logo: Images/DINInestor-logo.png
+logo: Images\DINInestor-logo.png
 
 -->
 

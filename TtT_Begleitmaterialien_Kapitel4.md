@@ -36,7 +36,7 @@ logo: images/DINInestor-logo.png
 Was sind Forschungsdaten? So viele Beispiele wie möglich!
 ---
 
-![Bild](images/Forschungsdaten_01-06.PNG)
+![Bild](Images/Forschungsdaten_01-06.PNG)
 
 #### Was sind Digitale Forschungsdaten?
 

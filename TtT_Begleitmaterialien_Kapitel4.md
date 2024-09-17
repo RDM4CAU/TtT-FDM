@@ -12,20 +12,7 @@ comment:
 licence: cc-by
 
 
-logo: images/DINInestor-logo.png
-
-
-@style
-
-.lia-slide__container {
-    background-image: url("https://raw.githubusercontent.com/RDM4CAU/TtT-FDM/main/images/DINInestor-logo.png");
-    background-size: 15%;
-    background-repeat: no-repeat;
-    background-position: right top;
-    opacity: 1;
-}
-
-@end
+logo: Images/DINInestor-logo.png
 
 -->
 
